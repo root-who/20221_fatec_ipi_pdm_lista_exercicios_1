@@ -1,0 +1,20 @@
+{
+  "name": "20221_fatec_ipi_pdm_lista_exercicios_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/root-who/20221_fatec_ipi_pdm_lista_exercicios_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/root-who/20221_fatec_ipi_pdm_lista_exercicios_1/issues"
+  },
+  "homepage": "https://github.com/root-who/20221_fatec_ipi_pdm_lista_exercicios_1#readme",
+  "type": "module"
+}
