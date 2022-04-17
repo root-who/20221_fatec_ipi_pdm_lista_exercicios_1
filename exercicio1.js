@@ -4,7 +4,7 @@
 // Programadores: João Paulo Gonzaga e Cleyffson Cardoso
 
 
-function adicicao(num1, num2){
+function adicao(num1, num2){
     return num1 + num2;
 }
 
